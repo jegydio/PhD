@@ -231,8 +231,9 @@ $ kubectl get service nginx-service
 
 Depois de configurar o Cluster EKS no seu dispositivo local, você pode fazer o mesmo procedimento do tópico [1.3 Executando e expondo o servidor php-apache](#1.3)
 
-### REFERÊNCIAS
-
+REFERÊNCIAS
 Documentação do Kubernetes. (s.d.). Passo a passo do Horizontal Pod Autoscale. Acessado em 4 de agosto de 2024, de https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/
 
-Amazon Web Services. (s.d.). Horizontal Pod Autoscaler. Acessado em 4 de agosto de 2024, de https://docs.aws.amazon.com/eks/latest/userguide/horizontal-pod-aut
+Amazon Web Services. (s.d.). Horizontal Pod Autoscaler. Acessado em 4 de agosto de 2024, de https://docs.aws.amazon.com/eks/latest/userguide/horizontal-pod-autoscaler.html
+
+Makkaya, C. (2020, 22 de julho). Kubernetes: Criando e testando um Horizontal Pod Autoscaling (HPA) em um cluster Kubernetes. Medium. Acessado em 4 de agosto de 2024, de https://cmakkaya.medium.com/kubernetes-creating-and-testing-a-horizontal-pod-autoscaling-hpa-in-kubernetes-cluster-548f2378f0c3
